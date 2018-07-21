@@ -1,0 +1,2 @@
+# squarespace-to-prestashop
+a
